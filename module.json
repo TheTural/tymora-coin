@@ -1,0 +1,18 @@
+{
+	"name": "tymora-coin",
+	"title": "Tymora Coin",
+	"description": "Adds a Tymora coin face option to Dice So Nice",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "0.7.2",
+	"compatibleCoreVersion" : "10.0.0",
+	"author": "Tural",
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"scripts": [
+		"diceset.js"
+	]
+}
